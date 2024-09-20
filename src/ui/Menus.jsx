@@ -4,7 +4,7 @@ import { HiEllipsisVertical } from "react-icons/hi2";
 import styled from "styled-components";
 import { useOutsideClick } from "../hooks/UseOutsideClick";
 
-const Menu = styled.div`
+const Menu = styled.div` 
   display: flex;
   align-items: center;
   justify-content: flex-end;
